@@ -29,41 +29,10 @@ function Navbar() {
         <li className='nav-item'>
             <a rel="noreferrer" href="https://oui-restaurant.netlify.app/" className='btn3' onClick=
               {closeMobileMenu}>
-              Inicio
+              Regresar al Menu Principal
             </a>
           </li>
          
-           <li className='nav-item'>
-            <a rel="noreferrer" href="https://oui-restaurant.netlify.app/menu" className='btn3' onClick=
-              {closeMobileMenu}>
-              Menu
-            </a>
-          </li>
-         
-           <li className='nav-item'>
-            <a rel="noreferrer" href="https://oui-restaurant.netlify.app/sugerencias" className='btn3' onClick=
-              {closeMobileMenu}>
-              Sugerencias
-            </a>
-            </li>
-            <li className='nav-item'>
-            <a rel="noreferrer" href="https://oui-restaurant.netlify.app/reservaciones" className='btn3' onClick=
-              {closeMobileMenu}>
-              Reservaciones
-            </a>
-          </li>
-          <li className='nav-item'>
-            <a rel="noreferrer" href="https://oui-restaurant.netlify.app/empleo" className='btn3' onClick=
-              {closeMobileMenu}>
-              Empleo
-            </a>
-          </li>
-          <li className='nav-item'>
-            <a rel="noreferrer" href="https://oui-restaurant.netlify.app/acerca" className='btn3' onClick=
-              {closeMobileMenu}>
-              Acerca
-            </a>
-          </li>
           
          
         </ul>
